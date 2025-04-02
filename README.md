@@ -54,6 +54,3 @@ This project demonstrates how to integrate **RabbitMQ** with a **Spring Boot** a
 
 This project is **free to use** and distributed under the **MIT License**.
 
----
-
-Let me know if that works!
