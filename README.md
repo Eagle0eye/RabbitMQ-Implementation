@@ -1,7 +1,3 @@
-Here's a simplified version of the README without the guide:
-
----
-
 # RabbitMQ and Spring Boot Integration
 
 This project demonstrates how to integrate **RabbitMQ** with a **Spring Boot** application for message queuing and asynchronous processing.
